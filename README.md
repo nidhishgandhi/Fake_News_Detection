@@ -4,4 +4,4 @@
 ->  This project says whether the news is Real or Fake. 
 ->  This Project is created in Google colab and Machine Learning algorithm and classifiers are used to detect the accuracy of any given news. 
 ->  For this the dataset is taken of news and it is trained and then tested. 
-->  The dataset is taken from Kaggle.
+->  The dataset is taken from Kaggle dataset.
